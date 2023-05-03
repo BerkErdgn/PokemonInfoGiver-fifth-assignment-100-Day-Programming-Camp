@@ -92,7 +92,7 @@ def get_data():
             list_of_delete.append(poke_type)
 
     else:
-        messagebox.showinfo("Infromation", "Pokemon isimini tanşıl girdiniz.")
+        messagebox.showinfo("Infromation", "Pokemon isimini yanlış girdiniz.")
 
 
 window = tkinter.Tk()
